@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(46, 46, 46);
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 100px;
+  color: rgb(0, 208, 255);
+}
+
+p{
+  font-size: 30px;
+  color: rgb(0, 208, 255);
+}
